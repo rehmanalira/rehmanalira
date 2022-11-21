@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning . 
 - 💞️ I’m looking to collaborate on Machine Learning . 
 -     I'm  Web Developer at Al-Nahar Solutions .
-- 📫 How to reach me using facebook www.facebook.com/rehmanalira or using gmail onlyra209@gmail.com 
+- 📫 How to reach me using facebook www.facebook.com/rehmanalira or using gmail mabdurrehmanra@gmail.com
 
 <!---
 rehmanalira/rehmanalira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
